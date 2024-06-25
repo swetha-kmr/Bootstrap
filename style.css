@@ -1,0 +1,84 @@
+.logo img {
+  width: 80px;
+  height: 80px;
+  margin-top: 50px;
+  padding: 10px;
+}
+.menu img {
+  width: 50px;
+  height: 50px;
+}
+.menubar {
+  margin-top: 50px;
+}
+.menubar .col-sm {
+  margin-top: 50px;
+}
+.flex {
+  display: flex;
+}
+.flex h1 {
+  margin-top: 15px;
+}
+.a {
+  width: 300px;
+  height: 130px;
+  background-color: #d4eaf7;
+  margin-top: 100px;
+  border-radius: 5px;
+}
+.b {
+  width: 300px;
+  height: 200px;
+  background-color: #f5f4f1;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.c {
+  width: 300px;
+  height: 277px;
+  background-color: #f5f4f1;
+  border-radius: 5px;
+  margin-top: 100px;
+}
+.d {
+  width: 300px;
+  height: 50px;
+  background-color: #f5f4f1;
+  border-radius: 5px;
+}
+
+.f {
+  margin-top: 10px;
+  width: 630px;
+  height: 170px;
+  background-color: #f5f4f1;
+  border-radius: 3px;
+  background-color: #f5f4f1;
+}
+.a h6 {
+  padding: 20px 0px 0px 30px;
+}
+
+.acon h4 {
+  padding: 30px 0px 0px 20px;
+}
+.acon h1 {
+  padding: 1px 70px 0px 10px;
+}
+.b h6 {
+  padding: 20px 0px 0px 30px;
+}
+.b img {
+  width: 50px;
+  height: 40px;
+  padding: 10px 0px 0px 20px;
+}
+.d img {
+  width: 50px;
+  height: 50px;
+}
+.i {
+  width: 150px;
+  height: 50px;
+}
